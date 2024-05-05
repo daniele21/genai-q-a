@@ -1,0 +1,23 @@
+[role="button"] {
+    cursor: pointer;
+    display: none;
+}
+#mid-font {
+    /*font-size:1.2em  !important; */
+    font:black;
+}
+.st-by 
+{
+    background-color: white !important;
+    color: black !important;
+}
+[data-testid='stAppViewContainer']{
+    background: rgb(0,113,255);
+    background: radial-gradient(circle, rgba(0,113,255,1) 35%, rgba(33,66,156,1) 100%);
+}
+[data-testid='stHeader']{
+
+    display: none;
+    background: rgb(0,113,255);
+    background: radial-gradient(circle, rgba(0,113,255,1) 35%, rgba(33,66,156,1) 100%);
+}
